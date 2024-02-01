@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shashini Hanshani</h1>
 <h3 align="center">Software Engineering Undergraduate</h3>
 
-- 🌱 I’m currently interested in learing AI **
+- 🌱 I’m currently interested in learning AI
   
 - 🌱 I’m currently working on a **MERN project with email generator,dockerizing**
 
