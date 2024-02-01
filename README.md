@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently interested in learning AI
   
-- 🌱 I’m currently working on a **MERN project with email generator,dockerizing**
+- 🌱 I’m currently working on a **MERN project**
 
 - 📫 How to reach me **https://www.linkedin.com/in/shashini-hanshani/**
 
