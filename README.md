@@ -2,8 +2,6 @@
 <h3 align="center">Software Engineering Undergraduate</h3>
 
 - 🌱 I’m currently interested in learning Web and Mobile Application Developement
-  
-- 🌱 I’m currently working on a **MERN project**
 
 - 📫 How to reach me **https://www.linkedin.com/in/shashini-hanshani/**
 
